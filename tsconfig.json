@@ -1,0 +1,11 @@
+{
+  "rootDir": ".",
+  "compilerOptions": {
+    "target": "es6",
+    "module": "none",
+    "sourceMap": false,
+  },
+  "include": [
+    "*.d.ts",
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "name": "ebg-typings",
+  "version": "1.0.0",
+  "description": "This package contains type definitions for boardgamearena ebg API",
+  "main": "",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "\"git repo\""
+  },
+  "keywords": [
+    "boardgamearena",
+    "ebg"
+  ],
+  "author": "Jie Mee Chong",
+  "license": "ISC",
+  "types": "index.d.ts",
+  "contributors": [
+    {
+      "name": "Jie Mee Chong",
+      "url": "https://github.com/jamiecjm"
+    }
+  ]
+}
